@@ -1,3 +1,6 @@
+JavaScript继承：
+https://github.com/lixiangwei/blog/issues/3
+
 http协议：
 https://github.com/lixiangwei/blog/issues/2
 
