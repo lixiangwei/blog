@@ -1,4 +1,4 @@
-前端的发展之路
+前端的发展方向探讨
 https://github.com/lixiangwei/blog/issues/4
 
 JavaScript继承：
