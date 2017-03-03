@@ -1,4 +1,4 @@
-前端工程化？
+前端的发展架构（工程化组件化）
 https://github.com/lixiangwei/blog/issues/4
 
 JavaScript继承：
