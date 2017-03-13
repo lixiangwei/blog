@@ -7,7 +7,7 @@ https://github.com/lixiangwei/blog/issues/4
 JavaScript继承：
 https://github.com/lixiangwei/blog/issues/3
 
-http协议：
+了解网络（http协议）：
 https://github.com/lixiangwei/blog/issues/2
 
 web缓存：
