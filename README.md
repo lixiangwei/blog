@@ -1,7 +1,7 @@
 前端性能优化：
 https://github.com/lixiangwei/blog/issues/6
 
-前端的发展方向探讨
+前端的发展方向探讨(工程化，组件化)：
 https://github.com/lixiangwei/blog/issues/4
 
 JavaScript继承：
