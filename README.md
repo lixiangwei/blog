@@ -1,13 +1,13 @@
 前端性能优化：
 https://github.com/lixiangwei/blog/issues/6
 
-前端的发展方向探讨(工程化，组件化)：
+前端的发展方向探讨(组件化)：
 https://github.com/lixiangwei/blog/issues/4
 
 JavaScript继承：
 https://github.com/lixiangwei/blog/issues/3
 
-了解网络（http协议）：
+了解网络协议：
 https://github.com/lixiangwei/blog/issues/2
 
 web缓存：
