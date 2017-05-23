@@ -24,3 +24,6 @@ https://github.com/lixiangwei/seajs-digestion  
     
 zepto源码分析：
 https://github.com/lixiangwei/zepto-digestion
+
+版本号的含义：
+https://github.com/lixiangwei/blog/issues/8
