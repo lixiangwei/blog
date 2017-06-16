@@ -27,6 +27,3 @@ https://github.com/lixiangwei/zepto-digestion
 
 版本号的含义：
 https://github.com/lixiangwei/blog/issues/8
-
-翻译，当你在google输入文字然后按enter的背后发生了什么：
-https://github.com/lixiangwei/blog/issues/9
