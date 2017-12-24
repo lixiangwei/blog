@@ -1,3 +1,6 @@
+MVVM的实现：
+https://github.com/lixiangwei/blog/issues/8
+
 前端性能优化：
 https://github.com/lixiangwei/blog/issues/6
 
@@ -24,6 +27,3 @@ https://github.com/lixiangwei/seajs-digestion  
     
 zepto源码分析：
 https://github.com/lixiangwei/zepto-digestion
-
-MVVM的实现：
-https://github.com/lixiangwei/blog/issues/8
