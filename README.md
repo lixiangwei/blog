@@ -19,7 +19,7 @@ https://github.com/lixiangwei/blog/issues/2
 web缓存：
 https://github.com/lixiangwei/blog/issues/1
 
-JavaScript自定义类型（类）：
+算法：
 https://github.com/lixiangwei/blog/issues/5
 
 seajs源码分析：
