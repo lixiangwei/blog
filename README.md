@@ -4,7 +4,7 @@ https://github.com/lixiangwei/blog/issues/8
 前端性能优化：
 https://github.com/lixiangwei/blog/issues/6
 
-前端的发展方向探讨(组件化)：
+前端的发展：
 https://github.com/lixiangwei/blog/issues/4
 
 javascript的设计模式
